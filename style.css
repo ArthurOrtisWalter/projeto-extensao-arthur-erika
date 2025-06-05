@@ -7,11 +7,10 @@ body{
 }
 header{
     background-color: #252525;
-    color: #Af0404;
+    color: #780000;
     text-align: center;
     padding: 20px;
     font-size: 30px;
-
 }
 nav ul{
     list-style: none;
@@ -21,7 +20,7 @@ nav ul{
 }
 li a{
     text-decoration: none;
-    color: #fff;
+    color:darkgray;
     font-size: 30px;
     padding-left: 60px;
     padding-right: 60px;
